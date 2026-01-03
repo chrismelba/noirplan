@@ -1,0 +1,5 @@
+{
+  "name": "NoirPlan: Murder Mystery Architect",
+  "description": "A comprehensive tool to generate, organize, and validate murder mystery parties. Features story generation, character dossier creation, clue management, and AI-powered consistency checking.",
+  "requestFramePermissions": []
+}
